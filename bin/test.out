@@ -1,0 +1,464 @@
+edge meshing
+nvertices = 8
+nedges = 12
+different vertices = 8
+faces = 6
+edge nr 1
+NP = 8
+edge nr 2
+NP = 8
+edge nr 3
+NP = 8
+edge nr 4
+NP = 8
+edge nr 5
+NP = 8
+edge nr 6
+NP = 8
+edge nr 7
+NP = 8
+edge nr 8
+NP = 8
+edge nr 9
+NP = 8
+edge nr 10
+NP = 8
+edge nr 11
+NP = 8
+edge nr 12
+NP = 8
+edge nr 13
+NP = 8
+edge nr 14
+NP = 8
+edge nr 15
+NP = 8
+edge nr 16
+NP = 8
+edge nr 17
+NP = 8
+edge nr 18
+NP = 8
+edge nr 19
+NP = 8
+edge nr 20
+NP = 8
+edge nr 21
+NP = 8
+edge nr 22
+NP = 8
+edge nr 23
+NP = 8
+edge nr 24
+NP = 8
+mesh face 1
+   0 times used rule Free Triangle (1)
+   0 times used rule Free Triangle (5)
+   0 times used rule Free Triangle (10)
+   0 times used rule Free Triangle (20)
+   1 times used rule Right 60 (1)
+   0 times used rule Left 60 (1)
+   0 times used rule Right 120 (1)
+   0 times used rule Left 120 (1)
+   0 times used rule Left Right 120 (1)
+   1 times used rule Fill Triangle
+   0 times used rule Vis A Vis (1)
+   0 times used rule 2 h Vis A Vis (1)
+mesh face 2
+   0 times used rule Free Triangle (1)
+   0 times used rule Free Triangle (5)
+   0 times used rule Free Triangle (10)
+   0 times used rule Free Triangle (20)
+   1 times used rule Right 60 (1)
+   0 times used rule Left 60 (1)
+   0 times used rule Right 120 (1)
+   0 times used rule Left 120 (1)
+   0 times used rule Left Right 120 (1)
+   1 times used rule Fill Triangle
+   0 times used rule Vis A Vis (1)
+   0 times used rule 2 h Vis A Vis (1)
+mesh face 3
+   0 times used rule Free Triangle (1)
+   0 times used rule Free Triangle (5)
+   0 times used rule Free Triangle (10)
+   0 times used rule Free Triangle (20)
+   1 times used rule Right 60 (1)
+   0 times used rule Left 60 (1)
+   0 times used rule Right 120 (1)
+   0 times used rule Left 120 (1)
+   0 times used rule Left Right 120 (1)
+   1 times used rule Fill Triangle
+   0 times used rule Vis A Vis (1)
+   0 times used rule 2 h Vis A Vis (1)
+mesh face 4
+   0 times used rule Free Triangle (1)
+   0 times used rule Free Triangle (5)
+   0 times used rule Free Triangle (10)
+   0 times used rule Free Triangle (20)
+   1 times used rule Right 60 (1)
+   0 times used rule Left 60 (1)
+   0 times used rule Right 120 (1)
+   0 times used rule Left 120 (1)
+   0 times used rule Left Right 120 (1)
+   1 times used rule Fill Triangle
+   0 times used rule Vis A Vis (1)
+   0 times used rule 2 h Vis A Vis (1)
+mesh face 5
+   0 times used rule Free Triangle (1)
+   0 times used rule Free Triangle (5)
+   0 times used rule Free Triangle (10)
+   0 times used rule Free Triangle (20)
+   1 times used rule Right 60 (1)
+   0 times used rule Left 60 (1)
+   0 times used rule Right 120 (1)
+   0 times used rule Left 120 (1)
+   0 times used rule Left Right 120 (1)
+   1 times used rule Fill Triangle
+   0 times used rule Vis A Vis (1)
+   0 times used rule 2 h Vis A Vis (1)
+mesh face 6
+   0 times used rule Free Triangle (1)
+   0 times used rule Free Triangle (5)
+   0 times used rule Free Triangle (10)
+   0 times used rule Free Triangle (20)
+   1 times used rule Right 60 (1)
+   0 times used rule Left 60 (1)
+   0 times used rule Right 120 (1)
+   0 times used rule Left 120 (1)
+   0 times used rule Left Right 120 (1)
+   1 times used rule Fill Triangle
+   0 times used rule Vis A Vis (1)
+   0 times used rule 2 h Vis A Vis (1)
+Meshing subdomain 1
+
+
+Points:           12
+Volume Elements:  33
+
+Volume elements in qualityclasses:
+   0 - 0.05: 22
+0.05 -  0.1: 1
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 4
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 2
+0.65 -  0.7: 0
+ 0.7 - 0.75: 2
+0.75 -  0.8: 0
+ 0.8 - 0.85: 2
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 0
+total error: 1.6e+03
+free: 23, fixed: 10
+
+Start SwapImprove
+free: 0, fixed: 34
+
+Start SwapImprove
+free: 0, fixed: 34
+
+Start SwapImprove
+free: 0, fixed: 34
+
+Start SwapImprove
+
+
+Points:           12
+Volume Elements:  34
+
+Volume elements in qualityclasses:
+   0 - 0.05: 24
+0.05 -  0.1: 0
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 4
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 3
+0.65 -  0.7: 0
+ 0.7 - 0.75: 0
+0.75 -  0.8: 0
+ 0.8 - 0.85: 3
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 0
+total error: 1.6e+03
+   0 times used rule Free Tetrahedron
+   0 times used rule Tetrahedron 60
+   0 times used rule Tetrahedron 60 with edge(1)
+   0 times used rule Tetrahedron Vis a Vis Point (1)
+   0 times used rule Tetrahedron Vis a Vis Point with edge(1)
+   0 times used rule Tetrahedron Vis a Vis Point with 2 edges (1)
+   0 times used rule Tetrahedron Vis a Vis Point with 3 edges (1)
+   0 times used rule Tetrahedron Vis a Vis Triangle (1)
+   0 times used rule Octaeder 1
+   0 times used rule Octaeder 2
+   0 times used rule Octaeder 2a
+   0 times used rule Pyramid 1
+   0 times used rule Tetrahedron 2 times 60
+   0 times used rule Fill Tetrahedron (1)
+   0 times used rule Tetrahedron 120 (1)
+   0 times used rule Tetrahedron 2 times 120 (1)
+   0 times used rule four Tetrahedron non convex (4)
+   0 times used rule five Tetrahedron non convex (4)
+   0 times used rule four Tetrahedron non convex (6)
+   0 times used rule four Tetrahedron non convex (6)
+   0 times used rule three Tetrahedron non convex (4)
+   0 times used rule three Tetrahedron non convex (6)
+   0 times used rule four Tetrahedron non convex (6)
+   0 times used rule Tetrahedron 2 in 60 (12)
+   0 times used rule Tetrahedron 120: but more than 180 (13)
+   0 times used rule Free Tetrahedron (14)
+   0 times used rule Free Tetrahedron (15)
+
+
+Points:           8
+Volume Elements:  6
+
+Volume elements in qualityclasses:
+   0 - 0.05: 0
+0.05 -  0.1: 0
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 0
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 3
+0.65 -  0.7: 0
+ 0.7 - 0.75: 0
+0.75 -  0.8: 0
+ 0.8 - 0.85: 3
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 0
+total error: 8.7
+
+
+Points:           8
+Volume Elements:  6
+
+Volume elements in qualityclasses:
+   0 - 0.05: 0
+0.05 -  0.1: 0
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 0
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 3
+0.65 -  0.7: 0
+ 0.7 - 0.75: 0
+0.75 -  0.8: 0
+ 0.8 - 0.85: 3
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 0
+total error: 8.7
+Start CombineImprove
+CombineImprove done
+Improve Mesh
+Total badness = 9.2
+Total badness = 9.1629634
+start SplitImprove
+Total badness = 9.1629634
+Splitt - Improve done
+Total badness = 9.1629634
+Improve Mesh
+Total badness = 9.1629634
+Total badness = 9.1629634
+
+Start SwapImprove
+Total badness = 9.1629634
+
+Start SwapImprove2
+Total badness = 6.1961524
+Total badness = 6.1961524
+swapimprove2 done
+Improve Mesh
+Total badness = 6.1961524
+Total badness = 6.1961524
+
+
+Points:           8
+Volume Elements:  5
+
+Volume elements in qualityclasses:
+   0 - 0.05: 0
+0.05 -  0.1: 0
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 0
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 0
+0.65 -  0.7: 0
+ 0.7 - 0.75: 0
+0.75 -  0.8: 0
+ 0.8 - 0.85: 4
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 1
+total error: 6
+Start CombineImprove
+CombineImprove done
+Improve Mesh
+Total badness = 6.2
+Total badness = 6.1961524
+start SplitImprove
+Total badness = 6.1961524
+Splitt - Improve done
+Total badness = 6.1961524
+Improve Mesh
+Total badness = 6.1961524
+Total badness = 6.1961524
+
+Start SwapImprove
+Total badness = 6.1961524
+
+Start SwapImprove2
+Total badness = 6.1961524
+Total badness = 6.1961524
+swapimprove2 done
+Improve Mesh
+Total badness = 6.1961524
+Total badness = 6.1961524
+
+
+Points:           8
+Volume Elements:  5
+
+Volume elements in qualityclasses:
+   0 - 0.05: 0
+0.05 -  0.1: 0
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 0
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 0
+0.65 -  0.7: 0
+ 0.7 - 0.75: 0
+0.75 -  0.8: 0
+ 0.8 - 0.85: 4
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 1
+total error: 6
+Start CombineImprove
+CombineImprove done
+Improve Mesh
+Total badness = 6.2
+Total badness = 6.1961524
+start SplitImprove
+Total badness = 6.1961524
+Splitt - Improve done
+Total badness = 6.1961524
+Improve Mesh
+Total badness = 6.1961524
+Total badness = 6.1961524
+
+Start SwapImprove
+Total badness = 6.1961524
+
+Start SwapImprove2
+Total badness = 6.1961524
+Total badness = 6.1961524
+swapimprove2 done
+Improve Mesh
+Total badness = 6.1961524
+Total badness = 6.1961524
+
+
+Points:           8
+Volume Elements:  5
+
+Volume elements in qualityclasses:
+   0 - 0.05: 0
+0.05 -  0.1: 0
+ 0.1 - 0.15: 0
+0.15 -  0.2: 0
+ 0.2 - 0.25: 0
+0.25 -  0.3: 0
+ 0.3 - 0.35: 0
+0.35 -  0.4: 0
+ 0.4 - 0.45: 0
+0.45 -  0.5: 0
+ 0.5 - 0.55: 0
+0.55 -  0.6: 0
+ 0.6 - 0.65: 0
+0.65 -  0.7: 0
+ 0.7 - 0.75: 0
+0.75 -  0.8: 0
+ 0.8 - 0.85: 4
+0.85 -  0.9: 0
+ 0.9 - 0.95: 0
+0.95 -    1: 1
+total error: 6
+NP: 8
+(10, 10, 0)
+(10, 10, 10)
+(10, 0, 0)
+(10, 0, 10)
+(0, 10, 0)
+(0, 10, 10)
+(0, 0, 0)
+(0, 0, 10)
+
+NSegments: 24
+6(gi=1496445856) - 8(gi=0) domin = -1, domout = -1 si = 1, edgenr = 1
+2(gi=1496445856) - 6(gi=0) domin = -1, domout = -1 si = 1, edgenr = 2
+4(gi=1496445856) - 2(gi=0) domin = -1, domout = -1 si = 1, edgenr = 3
+8(gi=1496445856) - 4(gi=0) domin = -1, domout = -1 si = 1, edgenr = 4
+7(gi=1496445856) - 5(gi=0) domin = -1, domout = -1 si = 2, edgenr = 5
+5(gi=1496445856) - 1(gi=0) domin = -1, domout = -1 si = 2, edgenr = 6
+1(gi=1496445856) - 3(gi=0) domin = -1, domout = -1 si = 2, edgenr = 7
+3(gi=1496445856) - 7(gi=0) domin = -1, domout = -1 si = 2, edgenr = 8
+1(gi=1496445856) - 5(gi=0) domin = -1, domout = -1 si = 3, edgenr = 9
+2(gi=1496445856) - 1(gi=0) domin = -1, domout = -1 si = 3, edgenr = 10
+6(gi=1496445856) - 2(gi=0) domin = -1, domout = -1 si = 3, edgenr = 11
+5(gi=1496445856) - 6(gi=0) domin = -1, domout = -1 si = 3, edgenr = 12
+7(gi=1496445856) - 3(gi=0) domin = -1, domout = -1 si = 4, edgenr = 13
+3(gi=1496445856) - 4(gi=0) domin = -1, domout = -1 si = 4, edgenr = 14
+4(gi=1496445856) - 8(gi=0) domin = -1, domout = -1 si = 4, edgenr = 15
+8(gi=1496445856) - 7(gi=0) domin = -1, domout = -1 si = 4, edgenr = 16
+4(gi=1496445856) - 3(gi=0) domin = -1, domout = -1 si = 5, edgenr = 17
+2(gi=1496445856) - 4(gi=0) domin = -1, domout = -1 si = 5, edgenr = 18
+1(gi=1496445856) - 2(gi=0) domin = -1, domout = -1 si = 5, edgenr = 19
+3(gi=1496445856) - 1(gi=0) domin = -1, domout = -1 si = 5, edgenr = 20
+7(gi=1496445856) - 8(gi=0) domin = -1, domout = -1 si = 6, edgenr = 21
+8(gi=1496445856) - 6(gi=0) domin = -1, domout = -1 si = 6, edgenr = 22
+6(gi=1496445856) - 5(gi=0) domin = -1, domout = -1 si = 6, edgenr = 23
+5(gi=1496445856) - 7(gi=0) domin = -1, domout = -1 si = 6, edgenr = 24
